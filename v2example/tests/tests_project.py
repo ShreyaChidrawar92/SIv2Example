@@ -9,7 +9,7 @@ class TestCSDL(TestCase):
 
         projectCount = SDM.fetch_projects_count()
         #self.assertGreaterEqual(projectCount,1,'Projects does not exist')
-        print 'projectCount are ', projectCount
+        print 'projectCount are     ', projectCount
 
     #def check_csdl_scores(self):
 
